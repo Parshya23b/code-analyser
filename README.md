@@ -1,7 +1,6 @@
 
 
-
-![Alt text](path/to/image.jpg)
+![Code analyser](https://github.com/user-attachments/assets/1bc1167a-1768-45ea-9a39-a45846854503)
 
 Code Analyzer Chrome Extension
 Overview
